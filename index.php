@@ -1,8 +1,9 @@
 <?php
 
-echo "Hello World";
-echo "<br />";
-echo "Second World";
-echo "Third World";
+echo '
+git add . <br />
+git commit -m "thrid commit"<br />
+git push origin master"<br />
+';
 
 ?>
